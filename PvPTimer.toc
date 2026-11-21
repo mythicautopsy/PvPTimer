@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: PvPTimer
+## Notes: Shows your PvP flag status with a countdown that resets when you get reflagged.
+## Author: mythicautopsy - The Monsoon Brigade @ Alliance PVE
+## Version: 1.0.0
+## SavedVariables: PvPTimerDB
+## X-Website: https://github.com/mythicautopsy/PvPTimer
+## X-License: MIT
+## IconTexture: Interface\Icons\INV_Misc_PocketWatch_01
+
+PvPTimer.lua
