@@ -3,3 +3,4 @@ package-as: PvPTimer
 ignore:
   - .github
   - PvPTimer-logo-400.png
+  - CLAUDE.md
